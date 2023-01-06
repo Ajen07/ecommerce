@@ -1,0 +1,21 @@
+table{
+    margin-top: 2rem;
+    margin-inline: auto;
+    border-collapse: collapse;
+}
+
+th{
+    border: 2px solid red;
+    height: 2rem;
+    width: 10rem;
+}
+td{
+    border: 2px solid black;
+    height: 2rem;
+    width: 10rem;
+    text-align: center;
+}
+table img{
+    width: 60px;
+    margin-inline: auto;
+}
